@@ -5,3 +5,9 @@ body{
  background-position:center;
  }
 
+head{
+ background-image: url("f.jpg");
+ background-size:cover;
+ background-repeat:no-repeat;
+ background-position:center;
+ }
